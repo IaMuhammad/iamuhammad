@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuhammad" alt="iamuhammad" /></a> </p>
 
-- 🔭 I’m currently working on [blog](https://github.com/IaMuhammad/blog.git)
+- 🔭 I’m currently working on [blog](https://github.com/IaMuhammad/blog)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
